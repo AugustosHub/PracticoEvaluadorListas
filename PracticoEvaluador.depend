@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1699358813 source:c:\users\pcunvime8\desktop\poner ejercicos en carpetas!!\augusto\practicoevaluador\main.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<locale.h>
+	<time.h>
+	<unistd.h>
+	<string.h>
+	<conio.h>
+
+1699391021 source:c:\users\user\desktop\facultad\listas\practicoevaluador-augusto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<locale.h>
+	<time.h>
+	<unistd.h>
+	<string.h>
+	<conio.h>
+
